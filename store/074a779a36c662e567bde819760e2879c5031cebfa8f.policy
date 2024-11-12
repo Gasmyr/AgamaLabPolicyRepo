@@ -1,0 +1,2 @@
+@description("My custom policy") 
+permit(principal is jans::support::User, action, resource is jans::support::Application) when { principal is jans::support::User };
