@@ -1,0 +1,1 @@
+permit(principal in jans::support::User::"Admin", action, resource in jans::support::Application::"Iqvia");
