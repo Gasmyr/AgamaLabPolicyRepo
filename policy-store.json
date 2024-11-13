@@ -9,9 +9,9 @@
                 "policy_content": "cGVybWl0KHByaW5jaXBhbCwgYWN0aW9uLCByZXNvdXJjZSkgd2hlbiB7IHByaW5jaXBhbCBpcyBqYW5zOjpzdXBwb3J0OjpVc2VyIH07"
             },
             "074a779a36c662e567bde819760e2879c5031cebfa8f": {
-                "description": "description",
+                "description": "My custom policy updated",
                 "creation_date": "2024-11-12T10:46:23.978817",
-                "policy_content": "QGRlc2NyaXB0aW9uKCJNeSBjdXN0b20gcG9saWN5IikgCnBlcm1pdChwcmluY2lwYWwgaXMgamFuczo6c3VwcG9ydDo6VXNlciwgYWN0aW9uLCByZXNvdXJjZSBpcyBqYW5zOjpzdXBwb3J0OjpBcHBsaWNhdGlvbikgd2hlbiB7IHByaW5jaXBhbCBpcyBqYW5zOjpzdXBwb3J0OjpVc2VyIH07"
+                "policy_content": "QGRlc2NyaXB0aW9uKCJNeSBjdXN0b20gcG9saWN5IHVwZGF0ZWQiKSAKcGVybWl0KHByaW5jaXBhbCBpcyBqYW5zOjpzdXBwb3J0OjpVc2VyLCBhY3Rpb24sIHJlc291cmNlIGlzIGphbnM6OnN1cHBvcnQ6OkFwcGxpY2F0aW9uKSB3aGVuIHsgcHJpbmNpcGFsIGlzIGphbnM6OnN1cHBvcnQ6OlVzZXIgfTs="
             }
         },
         "identity_source": {},
