@@ -17,11 +17,6 @@
                 "description": "description",
                 "creation_date": "2024-11-12T12:06:51.346683",
                 "policy_content": "QGRlc2NyaXB0aW9uKCJteSBhbm90aGVyIHBvbGljeSIpIApwZXJtaXQocHJpbmNpcGFsLCBhY3Rpb24gaW4gamFuczo6c3VwcG9ydDo6QWN0aW9uOjoiTW9uaXRvciIsIHJlc291cmNlKSB3aGVuIHsgcHJpbmNpcGFsIGlzIGphbnM6OnN1cHBvcnQ6OlVzZXIgfTs="
-            },
-            "670565504d243eb1a81eac812ff1715101a3904349db": {
-                "description": "Description not provided.",
-                "creation_date": "2024-11-12T13:36:06.899616",
-                "policy_content": "cGVybWl0KHByaW5jaXBhbCA9PSBqYW5zOjpzdXBwb3J0OjpVc2VyOjoiZ2FzbXlyIiwgYWN0aW9uLCByZXNvdXJjZSk7"
             }
         },
         "identity_source": {},
