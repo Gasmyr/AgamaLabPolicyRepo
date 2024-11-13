@@ -1,1 +1,0 @@
-permit(principal is jans::support::User in jans::support::Role::"Admin", action, resource);
