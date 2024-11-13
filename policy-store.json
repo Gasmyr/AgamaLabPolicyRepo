@@ -37,11 +37,6 @@
                 "description": "Description not provided.",
                 "creation_date": "2024-11-12T15:17:47.313122",
                 "policy_content": "cGVybWl0KHByaW5jaXBhbCwgYWN0aW9uIGluIFtqYW5zOjpzdXBwb3J0OjpBY3Rpb246OiJXcml0ZSIsIGphbnM6OnN1cHBvcnQ6OkFjdGlvbjo6IlJlYWQiXSwgcmVzb3VyY2UpOw=="
-            },
-            "d6d14b63828f9b9101b0c3e079902bc5f47b87754758": {
-                "description": "Description not provided.",
-                "creation_date": "2024-11-13T08:06:08.520052",
-                "policy_content": "cGVybWl0KHByaW5jaXBhbCBpcyBqYW5zOjpzdXBwb3J0OjpVc2VyIGluIGphbnM6OnN1cHBvcnQ6OlJvbGU6OiJBZG1pbiIsIGFjdGlvbiwgcmVzb3VyY2UpOw=="
             }
         },
         "identity_source": {},
