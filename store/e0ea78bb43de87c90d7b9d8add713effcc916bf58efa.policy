@@ -1,1 +1,0 @@
-permit(principal, action in [jans::support::Action::"Write"], resource);
