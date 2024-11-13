@@ -1,1 +1,0 @@
-permit(principal == jans::support::User::"gasmyr", action, resource);
