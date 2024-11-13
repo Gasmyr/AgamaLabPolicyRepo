@@ -1,2 +1,0 @@
-@description("my another policy") 
-permit(principal, action in jans::support::Action::"Monitor", resource) when { principal is jans::support::User };
