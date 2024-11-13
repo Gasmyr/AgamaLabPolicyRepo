@@ -12,11 +12,6 @@
                 "description": "description",
                 "creation_date": "2024-11-12T10:46:23.978817",
                 "policy_content": "QGRlc2NyaXB0aW9uKCJNeSBjdXN0b20gcG9saWN5IikgCnBlcm1pdChwcmluY2lwYWwgaXMgamFuczo6c3VwcG9ydDo6VXNlciwgYWN0aW9uLCByZXNvdXJjZSBpcyBqYW5zOjpzdXBwb3J0OjpBcHBsaWNhdGlvbikgd2hlbiB7IHByaW5jaXBhbCBpcyBqYW5zOjpzdXBwb3J0OjpVc2VyIH07"
-            },
-            "feedc9764733f2337ade0783f0e4c2ac2ffd16b05799": {
-                "description": "description",
-                "creation_date": "2024-11-12T12:06:51.346683",
-                "policy_content": "QGRlc2NyaXB0aW9uKCJteSBhbm90aGVyIHBvbGljeSIpIApwZXJtaXQocHJpbmNpcGFsLCBhY3Rpb24gaW4gamFuczo6c3VwcG9ydDo6QWN0aW9uOjoiTW9uaXRvciIsIHJlc291cmNlKSB3aGVuIHsgcHJpbmNpcGFsIGlzIGphbnM6OnN1cHBvcnQ6OlVzZXIgfTs="
             }
         },
         "identity_source": {},
